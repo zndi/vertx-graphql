@@ -1,16 +1,16 @@
 type Query {
-  accounts: [Account!]!
-  account(id: ID!): Account
+  books: [Book!]!
+  book(id: ID!): Book
 }
 
-type Account{
+type Book{
   id: ID!
-  label: String!
-  balance: Balance
+  title: String!
+  author: Author
 }
 
-type Balance {
+type Author {
   id: ID!
-  amount: Float!
+  name: String!
 }
 

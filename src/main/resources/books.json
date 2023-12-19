@@ -1,0 +1,32 @@
+[
+  {
+    "id": "book-1",
+    "title": "first book",
+    "authorId": "author-1"
+  },
+  {
+    "id": "book-2",
+    "title": "second book",
+    "authorId": "author-1"
+  },
+  {
+    "id": "book-3",
+    "title": "third book",
+    "authorId": "author-2"
+  },
+  {
+    "id": "book-4",
+    "title": "fourth book",
+    "authorId": "author-2"
+  },
+  {
+    "id": "book-6",
+    "title": "sixth book",
+    "authorId": "author-1"
+  },
+  {
+    "id": "book-5",
+    "title": "fifth book",
+    "authorId": "author-2"
+  }
+]
